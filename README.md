@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year BS Computer Science at STI College Caloocan<br><br>Currently Learning:<br>- Javascript and React Js<br>- Reviewing the fundamentals until I understand it completely
+2nd Year BS Computer Science at STI College Caloocan<br><br>Currently Learning:<br>- Javascript and React Js<br>- Reviewing the fundamentals until I understand it completely<br>Motivation:<br>- Hanni Pham
 
 
 ## 🌐 Socials:
