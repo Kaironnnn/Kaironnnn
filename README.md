@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS Computer Science Student <br><br>Currently Learning:<br>- Dart Flutter<br>- Reviewing the fundamentals until I understand it completely
+BS Computer Science Student <br><br>Currently:<br>- Learning Dart Flutter.
 
 
 ## 🌐 Socials:
