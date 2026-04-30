@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS Computer Science <br><br>Currently Learning:<br>- Dart Flutter<br>- Reviewing the fundamentals until I understand it completely<br><br>Motivation:<br>- Hanni Pham
+BS Computer Science Student <br><br>Currently Learning:<br>- Dart Flutter<br>- Reviewing the fundamentals until I understand it completely<br><br>Motivation:<br>- Hanni Pham
 
 
 ## 🌐 Socials:
