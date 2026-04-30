@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year BS Computer Science at Milky Way Galaxy<br><br>Currently Learning:<br>- Dart Flutter<br>- Reviewing the fundamentals until I understand it completely<br><br>Motivation:<br>- Hanni Pham
+BS Computer Science <br><br>Currently Learning:<br>- Dart Flutter<br>- Reviewing the fundamentals until I understand it completely<br><br>Motivation:<br>- Hanni Pham
 
 
 ## 🌐 Socials:
