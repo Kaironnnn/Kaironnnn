@@ -1,5 +1,5 @@
 # 💫 About Me:
-BS Computer Science Student <br><br>Currently:<br>- Learning Dart Flutter.
+BS Computer Science Student <br><br>Currently:<br>- Learning React JS.
 
 
 ## 🌐 Socials:
